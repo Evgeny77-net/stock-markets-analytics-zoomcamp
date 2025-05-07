@@ -1,3 +1,6 @@
+This repo is fork of original https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp that is created by Data Talks Club and Ivan Bridgida - https://pythoninvest.com
+My goal participate in course and try to create the final project. There I plan to save course homeworks. 
+
 # Stock Market Analytics Zoomcamp
 
 <p align="center">
